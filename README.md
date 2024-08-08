@@ -1,4 +1,6 @@
-User Authentication and Password Management API
+
+#User Authentication and Password Management API 
+
 This project provides a basic user authentication system with functionalities including user registration, login, and password reset. It uses Node.js, Express, MongoDB, and various utility libraries like bcryptjs, jwt, and nodemailer for handling passwords and emails.
 
 Key Features
